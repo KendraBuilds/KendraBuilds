@@ -28,8 +28,8 @@
 ---
 
 ## 🤝 Connect With Me  
-- [LinkedIn](#www.linkedin.com/in/kendra-mosholder)  
-- [Email](#kendra.m91@outlook.com)  
+- [LinkedIn](https://www.linkedin.com/in/kendra-mosholder)  
+- [Email](mailto:kendra.m91@outlook.com)  
 
 ---
 
