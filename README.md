@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Kendra 👋  
 
-<!--
-**KendraBuilds/KendraBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 With a background in psychology and certification in data analytics, I bring both analytical skills and a human-centered perspective to data projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Skills  
+- R (tidyverse, ggplot2, dplyr)  
+- SQL  
+- Tableau  
+- Excel  
+- Data cleaning, visualization & storytelling  
+
+---
+
+## 📂 Featured Projects  
+- [Advertising Budget & Sales Analysis](#) – Regression & visualization with R ✅  
+- Mental Health in Tech Dashboard *(in progress)*  
+- Big Cats Dataset Exploration *(in progress)*  
+
+---
+
+## 🌱 What I'm Learning  
+- Building dashboards that tell compelling stories  
+- Deeper SQL queries & database management  
+- Expanding my portfolio with real-world datasets  
+
+---
+
+## 🤝 Connect With Me  
+- [LinkedIn](#)  
+- [Email](#)  
+
+---
+
+✨ Thanks for stopping by! Always learning, always building. 
