@@ -29,7 +29,7 @@
 
 ## 🤝 Connect With Me  
 - [LinkedIn](https://www.linkedin.com/in/kendra-mosholder)  
-- [Email](mailto:kendra.m91@outlook.com)  
+- Email: kendra.m91@outlook.com   
 
 ---
 
