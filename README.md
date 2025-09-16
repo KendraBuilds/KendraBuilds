@@ -14,12 +14,13 @@
 ---
 
 ## 📂 Featured Projects  
-**[Advertising Budget & Sales Analysis](https://github.com/KendraBuilds/advertising-allocation)**  
+- **[Advertising Budget & Sales Analysis](https://github.com/KendraBuilds/advertising-allocation)**  
   Used regression and simulations in R to analyze TV, radio, and newspaper ad budgets.  
-  Found an optimal $100k allocation of **≈ 55% TV / 45% Radio**, with newspaper spend showing no measurable effect.   
-- Mental Health in Tech Dashboard *(in progress)*  
-- Big Cats Dataset Exploration *(in progress)*  
+  Found an optimal $100k allocation of **≈ 55% TV / 45% Radio**, with newspaper spend showing no measurable effect.  
 
+- **Mental Health in Tech Dashboard** *(in progress)*  
+
+- **Big Cats Dataset Exploration** *(in progress)*  
 ---
 
 ## 🌱 What I'm Learning  
